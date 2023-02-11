@@ -1,6 +1,6 @@
 # Svelte snake game project.
 
-It runs just like snake:
+It runs just like snake:<br>
 If the snake eats its tail, the game is reset. <br>
 If the snake eats one unit of food, it grows by one unit and the food is placed elsewhere on the board. <br>
 If the user hits an eligible arrowkey (snake will not go in direct opposite), the snake will alter its direction. <br> 
